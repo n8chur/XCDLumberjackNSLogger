@@ -1,2 +1,2 @@
 github "CocoaLumberjack/CocoaLumberjack" ~> 2.0.0
-github "Automatic/NSLogger" "framework"
+github "Automatic/NSLogger" ~> 1.6.0
