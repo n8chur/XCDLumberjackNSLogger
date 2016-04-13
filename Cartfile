@@ -1,2 +1,2 @@
 github "CocoaLumberjack/CocoaLumberjack" ~> 2.1
-github "Autoc0diq/NSLogger" ~> 1.5.1
+github "c0diq/NSLogger" ~> 1.5.1
