@@ -1,2 +1,2 @@
-github "CocoaLumberjack/CocoaLumberjack" ~> 2.1
+github "ffried/CocoaLumberjack" "swift3.0"
 github "Automatic/NSLogger" ~> 1.5.1

@@ -1,2 +1,2 @@
-github "CocoaLumberjack/CocoaLumberjack" "2.2.0"
+github "ffried/CocoaLumberjack" "285b28c777602fa1be0246cc39cdeea703014c90"
 github "Automatic/NSLogger" "1.6.0"
